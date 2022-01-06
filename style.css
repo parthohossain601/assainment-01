@@ -49,9 +49,19 @@ section{
 }
 .section3{
     margin-top: 90px;
-    margin-bottom: 90px;
+    margin-bottom: 100px;
 }
 .section-last{
     background-color: black;
     color:white;
+}
+.section4{
+    margin-bottom: 90px;
+}
+.form1{
+    background-color: thistle;
+}
+.myform{
+    margin-left: 550px;
+    padding:10px;
 }
